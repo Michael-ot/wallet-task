@@ -1,0 +1,9 @@
+.coinMetrics{
+    margin-top: 10.75px;
+}
+
+@media (min-width: 1024px){
+    .coinMetrics{
+        margin-top: 0px;
+    }
+}

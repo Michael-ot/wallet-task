@@ -1,0 +1,31 @@
+.header-container{
+    background-color: #fff;
+    padding-top: 37px;
+    padding-bottom: 30px;
+    padding-left: 21px;
+    padding-right:21px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}  
+
+.header-container > .title{
+    font-size: 27px;
+    font-weight: bold;
+    color: #4c5968;
+    letter-spacing: -.5px;
+}
+
+.header-container  > .header-icon{
+    color: #aeb8c4;
+}
+
+.header-container   .header-icon > .back{
+    width: 17px;
+    /* height: 80px; */
+}
+
+.header-container   .header-icon > .options{
+    width: 10px;
+    
+}

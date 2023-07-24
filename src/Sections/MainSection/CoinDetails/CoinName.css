@@ -1,0 +1,25 @@
+.coinName{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.coinName .logo{
+   display: flex;
+   align-items: center;
+   gap: 13px;
+}
+.coinName .logo img{
+    width: 40px;
+    height: 40px;
+}
+.coinName .logo p{
+    font-size: 13px;
+    font-weight: bold;
+    color: #4c5968;
+}
+
+.coinName p.coinCode{
+    font-size: 13.5px;
+    color: #aeb8c4;
+    font-weight: bold;
+}

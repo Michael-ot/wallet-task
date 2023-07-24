@@ -1,0 +1,11 @@
+.action-btns{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    margin-top: 24px;
+}
+@media (min-width: 1024px){
+    .action-btns.hidden{
+       display: none !important;
+    }
+}

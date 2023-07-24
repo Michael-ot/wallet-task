@@ -1,0 +1,37 @@
+.coinDetails h3{
+    font-size: 31.5px;
+    margin-top: 20.75px;
+    margin-bottom: 15.25px;
+    color: #4c5968;
+    font-weight: bold;
+}
+.coinDetails .coinDetails-fl {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 19.5px;
+
+}
+.coinDetails .coinDetails-fl p{
+    font-size: 18.75px;
+    font-weight: bold;
+    color: #aeb8c4;
+}
+.coinDetails .coinDetails-fl .rting{
+    padding: 8.25px 13.25px;
+    border-radius: 20.75px;
+    background-color: #ee225d;
+    color: white;
+}
+.coinDetails .t-chev {
+    display: block;
+    background: none;
+    border: none;
+    margin: 0px auto;
+}
+.coinDetails .t-chev svg{
+    width: 47.25px;
+    display: block;
+    margin: 0px auto;
+    color: #aeb8c4;
+}

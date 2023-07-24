@@ -1,0 +1,8 @@
+.navigation{
+    padding: 17px 41px 58px;
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: 30px 30px 30px 30px;
+    justify-content: space-between;
+    grid-template-rows: 30px;
+}

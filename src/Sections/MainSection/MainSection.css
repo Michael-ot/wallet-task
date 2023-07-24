@@ -1,0 +1,12 @@
+.main-section{
+    padding: 24px 24px;
+    
+}
+
+@media (min-width: 1024px){
+    .main-section{
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       gap: 20px;
+    }
+}
