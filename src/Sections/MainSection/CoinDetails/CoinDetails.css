@@ -1,3 +1,10 @@
+
+@media (min-width: 1024px){
+    .coinDetails{
+       height: 245.5px;
+    }
+}
+
 .coinDetails h3{
     font-size: 31.5px;
     margin-top: 20.75px;
